@@ -1,0 +1,6 @@
+{
+  "name": "Bệnh viện Đa khoa Thủy Nguyên",
+  "description": "Trang thông tin chính điện tử, đăng ký khám bệnh trực tuyến và tra cứu kết quả xét nghiệm của Bệnh viện Đa khoa Thủy Nguyên, Hải Phòng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
